@@ -1,0 +1,28 @@
+
+
+git init---Initializing git in present directory
+
+
+git status---for listing all untracked files
+
+
+git add -A----for adding untracked files to staging area
+
+
+git commit -m "message"----for adding to local repositary
+
+
+
+git pull
+
+git clone
+
+git push
+
+
+
+to create a new user or change a user in git bash,use the below commands
+
+1) git config --global user.email "meerajoys90@gmail.com"
+
+2) git config --global user.name "meera"
